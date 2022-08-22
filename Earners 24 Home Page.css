@@ -1,0 +1,33 @@
+body {
+	background-color:#3b65b4;
+	font-family: Helvetica, Arial, Sans-serif;
+}
+
+a {
+	text-decoration: none;
+	color: white;
+}
+#container {
+	background-color: white;
+	width: 800px;
+	margin-right: auto;
+	margin-left: auto;
+}
+#header {
+	color: white;
+	text-align: center;
+}
+#content {
+	padding: 10px;
+}
+#content {
+	padding: 10px;
+}
+#nav ul {
+	list-style-type: none;
+	padding: 0;
+}
+#footer {
+	clear: both;
+	padding: 10px
+}
